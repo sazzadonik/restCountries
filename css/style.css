@@ -1,0 +1,47 @@
+.country {
+  border: 1px solid rebeccapurple;
+  border-radius: 20px;
+  display: inline-block;
+  padding: 10px;
+  width: 28%;
+  margin: 20px;
+}
+
+.countryName {
+  font-size: 40px;
+  color: gray;
+  text-align: center;
+}
+
+.country p {
+  text-align: center;
+  font-size: 20px;
+  color: blueviolet;
+}
+.country button {
+  background: coral;
+  color: black;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 10px 15px;
+  margin: 20px auto;
+  display: block;
+  /* margin-bottom: 10px; */
+}
+
+#countryDetails {
+  width: 100%;
+  margin: 100px 0px;
+}
+
+#countryDetails h1,
+#countryDetails p {
+  text-align: center;
+}
+
+#countryDetails img {
+  margin: auto;
+  display: block;
+  height: 100px;
+  width: 200px;
+}
